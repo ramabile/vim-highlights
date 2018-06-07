@@ -90,5 +90,5 @@ hi def link     mfpxConnectivity    Special
 hi def link     mfpxNatom           Statement
 
 hi def link     mfpxConnindex       Constant
-hi def link     mfpxNotConnindex    Error
+hi def link     mfpxNotConnindex    Statement
 hi def link     mfpxSeparator       Special
